@@ -22,6 +22,6 @@ The HTML file structures the game interface, including the title and the color b
 
 The CSS file styles the game interface, defining the appearance of the game buttons, the title, and the game over state.
 
-###game.js
+### game.js
 
 The JavaScript file (to be created) will contain the logic for the Simon game, including generating sequences, handling user input, and managing game state.
